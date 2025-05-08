@@ -1,0 +1,14 @@
+#EXTM3U
+
+#EXTINF:-1,600k
+https://b-nhkwlive-ojp.nhkworld.jp/hls/live/2003459-b/nhkwlive-ojp-en/index_600k.m3u8
+#EXTINF:-1,1M
+https://b-nhkwlive-ojp.nhkworld.jp/hls/live/2003459-b/nhkwlive-ojp-en/index_1M.m3u8
+#EXTINF:-1,2M
+https://b-nhkwlive-ojp.nhkworld.jp/hls/live/2003459-b/nhkwlive-ojp-en/index_2M.m3u8
+#EXTINF:-1,4M
+https://b-nhkwlive-ojp.nhkworld.jp/hls/live/2003459-b/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1,200k
+https://b-nhkwlive-ojp.nhkworld.jp/hls/live/2003459-b/nhkwlive-ojp-en/index_200k.m3u8
+#EXTINF:-1,audio
+https://b-nhkwlive-ojp.nhkworld.jp/hls/live/2003459-b/nhkwlive-ojp-en/index_audio.m3u8
