@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2025-05-08
+# Lastupdate: 2025-06-19
 #
 
 ||domain.dummy280280.net^
@@ -2947,6 +2947,13 @@
 ||tcrzhmdjeswj.com^
 ||pubadx.one^
 ||yn.algiersreests.com^
+||bngrol.com^
+||clickadu.net^
+||amawidget.yutbr.com^
+||api.ada-cloud.com^
+||recruitbox.media.iid.jp^
+||godkc.com^
+||wary-prior.com^
 
 @@||www.googleadservices.com^
 
